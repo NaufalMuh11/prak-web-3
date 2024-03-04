@@ -4,8 +4,8 @@
 
 Anggota Kelompok:
 
-## Samuel Sihombing (2210512089)
-## Muhammad (2210512090)
-## Damar NurFadhil (2210512118)
-## Ivan Ahmad Wijaya (2210512115)
-## Ardian Dwi Cahyo (2210512110)
+### Samuel Sihombing (2210512089)
+### Muhammad (2210512090)
+### Damar NurFadhil (2210512118)
+### Ivan Ahmad Wijaya (2210512115)
+### Ardian Dwi Cahyo (2210512110)
