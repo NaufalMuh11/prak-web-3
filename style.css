@@ -37,7 +37,7 @@ body {
 .container {
   /* margin: 30px; */
   margin-top: 10px;
-  margin-bottom:10px;
+  margin-bottom: 10px;
   margin-left: 30px;
   margin-right: 30px;
 }
@@ -46,7 +46,6 @@ body {
   color: #2f2f2f;
   font-weight: bold;
   font-size: 50px;
-  
 }
 
 .menu-wrapper {
@@ -109,6 +108,7 @@ body {
 .judul-berita {
   color: #4376a6;
   padding-top: 4rem;
+  font-size: 28px;
 }
 
 .tanggal-berita {
@@ -202,4 +202,5 @@ body {
   padding-left: 10px;
   cursor: pointer;
   font-weight: 600;
+  padding-bottom: 30px;
 }
