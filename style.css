@@ -46,6 +46,7 @@ body {
   color: #2f2f2f;
   font-weight: bold;
   font-size: 50px;
+  cursor: pointer;
 }
 
 .menu-wrapper {
@@ -71,6 +72,7 @@ body {
   margin-right: 40px;
   font-weight: 500;
   font-size: 25px;
+  cursor: pointer;
 }
 
 .list-menu li::before {
@@ -83,6 +85,14 @@ body {
 
 .list-menu li:first-child::before {
   content: none; /* Untuk menghapus simbol "|" pada elemen pertama */
+}
+
+.tampilrinci {
+  background-color: rgb(130, 243, 241);
+  padding: 10px;
+  margin-bottom:10px;
+  font-weight: bold;
+  cursor: pointer;
 }
 
 .konten-wrapper {
@@ -117,7 +127,7 @@ body {
 }
 
 .text-berita-wrapper {
-  padding-bottom: 50px;
+  padding-bottom: 10px;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -134,7 +144,7 @@ body {
   font-weight: 500;
 }
 .table-wrapper {
-  width: 400px; /* Sesuaikan lebar sesuai kebutuhan */
+  width: 380px; /* Sesuaikan lebar sesuai kebutuhan */
   border: 3.5px solid #ccc;
   /* border-radius: 5px; */
   overflow: hidden;
@@ -177,6 +187,7 @@ body {
   align-items: center;
   color: #7aa8d3;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .table-list-wrapper li span {
@@ -203,4 +214,51 @@ body {
   cursor: pointer;
   font-weight: 600;
   padding-bottom: 30px;
+}
+
+.browse-all a:visited {
+  color: #4376a6;
+}
+
+.selengkapnya {
+  color: #4376a6;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.selengkapnya a:visited {
+  color: #4376a6;
+}
+
+.hr-bawah {
+  max-width: 100%;
+  background-color: #969696;
+  height: 1px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.vl {
+  border-left: 1px solid #969696;
+  height: 70rem;
+}
+
+.sosmed-wrapper{
+  color: black;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  font-size:20px;
+}
+
+.sosmed-wrapper p{
+  font-weight: 500;
+}
+.isi-sosmed{
+  color:#4376a6;
+  font-weight: 500;
+}
+
+.isi-sosmed a:visited{
+  color: #4376a6;
 }
